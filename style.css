@@ -1,0 +1,18 @@
+#title{
+    font-family: Algerian}
+
+#Nextmain
+{
+    color: brown;
+    background-color: green;
+    width: 100px;
+    height: 20px;
+    border: ridge;
+    margin-top: 20px;
+}
+
+#step1{
+    font-family: Comic Sans MS;
+    border: ridge;
+    width: 500;
+}
